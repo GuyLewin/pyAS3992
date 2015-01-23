@@ -1,5 +1,6 @@
 # pyAS3992
 Provides easy access to AS3992 RFID reader via USB adapter from Python running on Unix machines.
+
 This is a part of a larger project. 
 I published this API since there is no convinient API currently published for communicating with this card, especially not for Python.
 
